@@ -1,0 +1,412 @@
+div.wuwa-container {
+  background-color: rgb(8, 12, 20);
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 8px;
+  color: rgb(16, 24, 40);
+  border: 4px solid;
+  box-sizing: content-box;
+}
+
+div.wuwa-barh {
+  display: flex;
+  flex-direction: column;
+  padding: 16px 0px;
+}
+
+.wuwa-flex {
+  display: flex;
+}
+
+.wuwa-flex-col {
+  display: flex;
+  flex-direction: column;
+}
+
+.wuwa-flex-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.wuwa-border-left {
+  border-left: 2px solid rgb(240, 240, 240);
+}
+
+.wuwa-border-right {
+  border-right: 2px solid rgb(240, 240, 240);
+}
+
+.wuwa-border-bottom-rgb-40-40-40 {
+  border-bottom: 2px rgb(40, 40, 40) solid;
+}
+
+.wuwa-margin-right-12 {
+  margin-right: 12px;
+}
+
+.wuwa-margin-top-8 {
+  margin-top: 8px;
+}
+
+.wuwa-margin-bottom-8 {
+  margin-bottom: 8px;
+}
+
+.wuwa-margin-bottom-24 {
+  margin-bottom: 24px;
+}
+
+.wuwa-black {
+  color: rgb(24, 24, 24);
+}
+
+.wuwa-philippine-gray {
+  color: rgb(140, 140, 140);
+}
+
+.wuwa-white {
+  color: rgb(240, 240, 240);
+}
+
+.wuwa-glacio {
+  color: rgb(72, 172, 252);
+}
+
+.wuwa-fusion {
+  color: rgb(248, 116, 76);
+}
+
+.wuwa-electro {
+  color: rgb(184, 108, 252);
+}
+
+.wuwa-aero {
+  color: rgb(88, 252, 180);
+}
+
+.wuwa-spectro {
+  color: rgb(255, 228, 108);
+}
+
+.wuwa-havoc {
+  color: rgb(208, 140, 180);
+}
+
+.wuwa-bg-glacio {
+  background-color: rgb(72, 172, 252);
+}
+
+.wuwa-bg-fusion {
+  background-color: rgb(248, 116, 76);
+}
+
+.wuwa-bg-electro {
+  background-color: rgb(184, 108, 252);
+}
+
+.wuwa-bg-aero {
+  background-color: rgb(88, 252, 180);
+}
+
+.wuwa-bg-spectro {
+  background-color: rgb(255, 228, 108);
+}
+
+.wuwa-bg-havoc {
+  background-color: rgb(208, 140, 180);
+}
+
+/* Output methods */
+div.wuwa-resonator-output-method-icon {
+  height: 48px !important;
+  object-fit: contain;
+  border-radius: 8px;
+  border: 2px solid rgb(240, 240, 240);
+  padding: 4px;
+}
+
+img.wuwa-resonator-output-method-icon {
+  height: 100%;
+  max-width: none;
+  object-fit: contain;
+}
+
+.wuwa-rows {
+  display: flex;
+  flex-direction: row;
+}
+
+.wuwa-left-row {
+  display: flex;
+  flex-direction: row;
+  margin-right: 8px;
+}
+
+.wuwa-right-row {
+  display: flex;
+  flex-direction: column;
+}
+
+.wuwa-actions {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.wuwa-action {
+  height: 60px;
+  margin-right: 8px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.wuwa-action-text {
+  font-size: 0.8rem;
+  color: rgb(240, 240, 240);
+}
+
+.wuwa-action-icon {
+  height: 32px !important;
+  margin-left: 8px;
+  object-fit: contain;
+}
+
+.wuwa-action-next {
+  height: 32px !important;
+  margin-left: 12px;
+  margin-right: 4px;
+  object-fit: contain;
+}
+
+.wuwa-comments {
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: column;
+}
+
+.wuwa-comment {
+  margin-top: 8px;
+  display: flex;
+  color: rgb(220, 220, 240);
+}
+
+.wuwa-margin-bottom {
+  margin-bottom: 8px;
+}
+
+/* Resonator */
+div.wuwa-resonator-info-title {
+  color: rgb(240, 240, 240);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  height: 48px;
+}
+
+div.wuwa-resonator-info-row-cell {
+  display: flex;
+  align-self: center;
+  border-radius: 8px;
+  border: 2px rgb(100, 100, 100) solid;
+  margin-right: 10px;
+  height: 48px;
+}
+
+div.wuwa-resonator-info-row-cell-padding {
+  padding: 0px 8px;
+}
+
+div.wuwa-resonator-info-table {
+  color: rgb(240, 240, 240);
+  display: flex;
+  margin-top: 12px;
+  font-size: 0.8rem;
+}
+
+div.wuwa-resonator-info {
+  display: flex;
+  align-self: center;
+  font-size: 0.8rem;
+}
+
+img.wuwa-resonator-info-icon {
+  height: 48px;
+  object-fit: contain;
+}
+
+table.wuwa-resonator-info-table {
+  color: rgb(240, 240, 240);
+  border-radius: 8px;
+  border: 2px rgb(100, 100, 100) solid;
+  width: 50%;
+}
+
+td.wuwa-resonator-info-td {
+  padding: 0px 4px;
+  font-size: 0.8rem;
+}
+
+/* barh */
+
+div.wuwa-barh-row {
+  display: flex;
+  flex-direction: row;
+  height: 40px;
+  align-items: center;
+  padding: 8px 0px;
+}
+
+div.wuwa-barh-resonator-icon {
+  display: flex;
+  height: 48px;
+  padding-right: 8px;
+}
+
+div.wuwa-barh-damage-container {
+  display: flex;
+  flex-direction: row;
+  height: 100%;
+  width: 100%;
+  align-items: start;
+}
+
+div.wuwa-barh-title {
+  display: flex;
+  flex-direction: column;
+  align-self: baseline;
+  font-size: 0.8rem;
+  margin-left: 8px;
+}
+
+div.wuwa-barh-resonator-id {
+  display: flex;
+  color: rgb(240, 240, 240);
+}
+
+div.wuwa-barh-template-info {
+  display: flex;
+  font-size: 0.8rem;
+  color: rgb(140, 140, 140);
+}
+
+div.wuwa-barh-damage-100 {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  font-size: 0.8rem;
+  margin-top: 2px;
+  margin-bottom: 8px;
+}
+
+div.wuwa-barh-damage {
+  border-radius: 0px 8px 8px 0px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 100%;
+}
+
+div.wuwa-barh-damage-value-in {
+  margin-left: auto;
+  margin-right: 8px;
+  display: flex;
+}
+
+div.wuwa-barh-damage-value-out {
+  margin-left: 8px;
+  display: flex;
+  color: rgb(240, 240, 240);
+  align-self: center;
+}
+
+div.wuwa-barh-id {
+  display: flex;
+  color: rgb(240, 240, 240);
+  font-size: 0.8rem;
+}
+
+div.wuwa-barh-id-gray {
+  display: flex;
+  color: rgb(140, 140, 140);
+  font-size: 0.8rem;
+}
+
+div.wuwa-barh-dps {
+  margin-bottom: 8px;
+  display: flex;
+  color: rgb(240, 240, 240);
+  font-size: 0.8rem;
+}
+
+/* Detailed damage */
+
+.wuwa-detailed-damage-row-text {
+  display: flex;
+  width: 200px;
+  font-size: 0.8rem;
+  color: rgb(240, 240, 240);
+  align-self: center;
+  justify-content: center;
+}
+
+div.wuwa-detailed-damage-row-text:after {
+  content: " ";
+  display: inline-block;
+}
+
+.wuwa-detailed-damage-row-text-w100 {
+  width: 100px;
+}
+
+.wuwa-detailed-damage-row-text-w150 {
+  width: 150px;
+}
+
+.wuwa-detailed-damage-row-text-w400 {
+  width: 400px;
+}
+
+.wuwa-detailed-damage-row-block {
+  display: block;
+  color: rgb(240, 240, 240);
+}
+
+.wuwa-detailed-damage-frac {
+  display: inline-block;
+  position: relative;
+  vertical-align: middle;
+  letter-spacing: 0.001em;
+  text-align: center;
+}
+
+.wuwa-detailed-damage-frac > span {
+  display: block;
+  padding: 0.1em;
+}
+
+.wuwa-detailed-damage-frac span.bottom {
+  border-top: thin solid rgb(240, 240, 240);
+}
+
+.wuwa-detailed-damage-frac span.symbol {
+  display: none;
+}
+
+table.wuwa-detailed-damage {
+  border-radius: 8px;
+  border: 2px rgb(100, 100, 100) solid;
+  width: 100%;
+  color: rgb(160, 160, 160);
+}
+
+td.wuwa-detailed-damage {
+  padding: 0px 16px;
+  vertical-align: middle;
+}
+
+td.wuwa-detailed-damage-h-60 {
+  height: 60px;
+}
