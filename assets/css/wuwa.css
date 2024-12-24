@@ -9,6 +9,10 @@ div.wuwa-container {
   box-sizing: content-box;
 }
 
+.wuwa-h30 {
+  height: 30px;
+}
+
 .wuwa-h40 {
   height: 40px;
 }
@@ -80,11 +84,13 @@ table.wuwa {
   border-spacing: 0;
   border: 1px rgb(100, 100, 100) solid;
   width: 100%;
+  overflow-x: auto;
 }
 
 td.wuwa,
 th.wuwa {
   border: 1px rgb(40, 40, 40) solid;
+  font-size: 0.64rem;
 }
 
 td.wuwa-px16,
@@ -404,7 +410,6 @@ div.wuwa-barh-damage {
   display: flex;
   flex-direction: row;
   align-items: center;
-  height: 100%;
 }
 
 div.wuwa-barh-damage-value-in {
