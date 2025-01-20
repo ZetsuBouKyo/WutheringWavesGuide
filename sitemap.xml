@@ -2290,6 +2290,13 @@
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/resonator/template/8f69a13c/"/>
     </url>
     <url>
+        <loc>Noneresonator/template/91a22df4/</loc>
+        <lastmod>2025-01-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="Noneresonator/template/91a22df4/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resonator/template/91a22df4/"/>
+    </url>
+    <url>
         <loc>Noneresonator/template/95d12a26/</loc>
         <lastmod>2025-01-19</lastmod>
         <changefreq>daily</changefreq>
@@ -5599,6 +5606,90 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh-TW" href="Noneresonator/template/8f69a13c/theory_1/echo_damage_comparison/1107/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/resonator/template/8f69a13c/theory_1/echo_damage_comparison/1107/"/>
+    </url>
+    <url>
+        <loc>Noneresonator/template/91a22df4/half_built_skill_bonus/damage_analysis/</loc>
+        <lastmod>2025-01-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="Noneresonator/template/91a22df4/half_built_skill_bonus/damage_analysis/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resonator/template/91a22df4/half_built_skill_bonus/damage_analysis/"/>
+    </url>
+    <url>
+        <loc>Noneresonator/template/91a22df4/half_built_skill_bonus/echo_damage_comparison/1205/</loc>
+        <lastmod>2025-01-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="Noneresonator/template/91a22df4/half_built_skill_bonus/echo_damage_comparison/1205/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resonator/template/91a22df4/half_built_skill_bonus/echo_damage_comparison/1205/"/>
+    </url>
+    <url>
+        <loc>Noneresonator/template/91a22df4/half_built_skill_bonus/echo_damage_comparison/1304/</loc>
+        <lastmod>2025-01-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="Noneresonator/template/91a22df4/half_built_skill_bonus/echo_damage_comparison/1304/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resonator/template/91a22df4/half_built_skill_bonus/echo_damage_comparison/1304/"/>
+    </url>
+    <url>
+        <loc>Noneresonator/template/91a22df4/half_built_skill_bonus/echo_damage_comparison/1505/</loc>
+        <lastmod>2025-01-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="Noneresonator/template/91a22df4/half_built_skill_bonus/echo_damage_comparison/1505/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resonator/template/91a22df4/half_built_skill_bonus/echo_damage_comparison/1505/"/>
+    </url>
+    <url>
+        <loc>Noneresonator/template/91a22df4/half_built_small/damage_analysis/</loc>
+        <lastmod>2025-01-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="Noneresonator/template/91a22df4/half_built_small/damage_analysis/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resonator/template/91a22df4/half_built_small/damage_analysis/"/>
+    </url>
+    <url>
+        <loc>Noneresonator/template/91a22df4/half_built_small/echo_damage_comparison/1205/</loc>
+        <lastmod>2025-01-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="Noneresonator/template/91a22df4/half_built_small/echo_damage_comparison/1205/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resonator/template/91a22df4/half_built_small/echo_damage_comparison/1205/"/>
+    </url>
+    <url>
+        <loc>Noneresonator/template/91a22df4/half_built_small/echo_damage_comparison/1304/</loc>
+        <lastmod>2025-01-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="Noneresonator/template/91a22df4/half_built_small/echo_damage_comparison/1304/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resonator/template/91a22df4/half_built_small/echo_damage_comparison/1304/"/>
+    </url>
+    <url>
+        <loc>Noneresonator/template/91a22df4/half_built_small/echo_damage_comparison/1505/</loc>
+        <lastmod>2025-01-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="Noneresonator/template/91a22df4/half_built_small/echo_damage_comparison/1505/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resonator/template/91a22df4/half_built_small/echo_damage_comparison/1505/"/>
+    </url>
+    <url>
+        <loc>Noneresonator/template/91a22df4/theory_1/damage_analysis/</loc>
+        <lastmod>2025-01-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="Noneresonator/template/91a22df4/theory_1/damage_analysis/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resonator/template/91a22df4/theory_1/damage_analysis/"/>
+    </url>
+    <url>
+        <loc>Noneresonator/template/91a22df4/theory_1/echo_damage_comparison/1205/</loc>
+        <lastmod>2025-01-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="Noneresonator/template/91a22df4/theory_1/echo_damage_comparison/1205/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resonator/template/91a22df4/theory_1/echo_damage_comparison/1205/"/>
+    </url>
+    <url>
+        <loc>Noneresonator/template/91a22df4/theory_1/echo_damage_comparison/1304/</loc>
+        <lastmod>2025-01-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="Noneresonator/template/91a22df4/theory_1/echo_damage_comparison/1304/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resonator/template/91a22df4/theory_1/echo_damage_comparison/1304/"/>
+    </url>
+    <url>
+        <loc>Noneresonator/template/91a22df4/theory_1/echo_damage_comparison/1505/</loc>
+        <lastmod>2025-01-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="Noneresonator/template/91a22df4/theory_1/echo_damage_comparison/1505/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resonator/template/91a22df4/theory_1/echo_damage_comparison/1505/"/>
     </url>
     <url>
         <loc>Noneresonator/template/95d12a26/half_built_skill_bonus/damage_analysis/</loc>
@@ -10361,6 +10452,13 @@
         <xhtml:link rel="alternate" hreflang="zh-TW" href="Noneresonator/template/8f69a13c/"/>
     </url>
     <url>
+        <loc>Noneen/resonator/template/91a22df4/</loc>
+        <lastmod>2025-01-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resonator/template/91a22df4/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="Noneresonator/template/91a22df4/"/>
+    </url>
+    <url>
         <loc>Noneen/resonator/template/95d12a26/</loc>
         <lastmod>2025-01-19</lastmod>
         <changefreq>daily</changefreq>
@@ -13670,6 +13768,90 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/resonator/template/8f69a13c/theory_1/echo_damage_comparison/1107/"/>
         <xhtml:link rel="alternate" hreflang="zh-TW" href="Noneresonator/template/8f69a13c/theory_1/echo_damage_comparison/1107/"/>
+    </url>
+    <url>
+        <loc>Noneen/resonator/template/91a22df4/half_built_skill_bonus/damage_analysis/</loc>
+        <lastmod>2025-01-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resonator/template/91a22df4/half_built_skill_bonus/damage_analysis/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="Noneresonator/template/91a22df4/half_built_skill_bonus/damage_analysis/"/>
+    </url>
+    <url>
+        <loc>Noneen/resonator/template/91a22df4/half_built_skill_bonus/echo_damage_comparison/1205/</loc>
+        <lastmod>2025-01-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resonator/template/91a22df4/half_built_skill_bonus/echo_damage_comparison/1205/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="Noneresonator/template/91a22df4/half_built_skill_bonus/echo_damage_comparison/1205/"/>
+    </url>
+    <url>
+        <loc>Noneen/resonator/template/91a22df4/half_built_skill_bonus/echo_damage_comparison/1304/</loc>
+        <lastmod>2025-01-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resonator/template/91a22df4/half_built_skill_bonus/echo_damage_comparison/1304/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="Noneresonator/template/91a22df4/half_built_skill_bonus/echo_damage_comparison/1304/"/>
+    </url>
+    <url>
+        <loc>Noneen/resonator/template/91a22df4/half_built_skill_bonus/echo_damage_comparison/1505/</loc>
+        <lastmod>2025-01-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resonator/template/91a22df4/half_built_skill_bonus/echo_damage_comparison/1505/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="Noneresonator/template/91a22df4/half_built_skill_bonus/echo_damage_comparison/1505/"/>
+    </url>
+    <url>
+        <loc>Noneen/resonator/template/91a22df4/half_built_small/damage_analysis/</loc>
+        <lastmod>2025-01-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resonator/template/91a22df4/half_built_small/damage_analysis/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="Noneresonator/template/91a22df4/half_built_small/damage_analysis/"/>
+    </url>
+    <url>
+        <loc>Noneen/resonator/template/91a22df4/half_built_small/echo_damage_comparison/1205/</loc>
+        <lastmod>2025-01-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resonator/template/91a22df4/half_built_small/echo_damage_comparison/1205/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="Noneresonator/template/91a22df4/half_built_small/echo_damage_comparison/1205/"/>
+    </url>
+    <url>
+        <loc>Noneen/resonator/template/91a22df4/half_built_small/echo_damage_comparison/1304/</loc>
+        <lastmod>2025-01-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resonator/template/91a22df4/half_built_small/echo_damage_comparison/1304/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="Noneresonator/template/91a22df4/half_built_small/echo_damage_comparison/1304/"/>
+    </url>
+    <url>
+        <loc>Noneen/resonator/template/91a22df4/half_built_small/echo_damage_comparison/1505/</loc>
+        <lastmod>2025-01-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resonator/template/91a22df4/half_built_small/echo_damage_comparison/1505/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="Noneresonator/template/91a22df4/half_built_small/echo_damage_comparison/1505/"/>
+    </url>
+    <url>
+        <loc>Noneen/resonator/template/91a22df4/theory_1/damage_analysis/</loc>
+        <lastmod>2025-01-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resonator/template/91a22df4/theory_1/damage_analysis/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="Noneresonator/template/91a22df4/theory_1/damage_analysis/"/>
+    </url>
+    <url>
+        <loc>Noneen/resonator/template/91a22df4/theory_1/echo_damage_comparison/1205/</loc>
+        <lastmod>2025-01-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resonator/template/91a22df4/theory_1/echo_damage_comparison/1205/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="Noneresonator/template/91a22df4/theory_1/echo_damage_comparison/1205/"/>
+    </url>
+    <url>
+        <loc>Noneen/resonator/template/91a22df4/theory_1/echo_damage_comparison/1304/</loc>
+        <lastmod>2025-01-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resonator/template/91a22df4/theory_1/echo_damage_comparison/1304/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="Noneresonator/template/91a22df4/theory_1/echo_damage_comparison/1304/"/>
+    </url>
+    <url>
+        <loc>Noneen/resonator/template/91a22df4/theory_1/echo_damage_comparison/1505/</loc>
+        <lastmod>2025-01-19</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resonator/template/91a22df4/theory_1/echo_damage_comparison/1505/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="Noneresonator/template/91a22df4/theory_1/echo_damage_comparison/1505/"/>
     </url>
     <url>
         <loc>Noneen/resonator/template/95d12a26/half_built_skill_bonus/damage_analysis/</loc>
