@@ -1,1 +1,0 @@
-import{b as e}from"./route-block-B_A1xBdJ.js";import{M as r,N as a,o as n,O as s,S as c,Q as f}from"./index-D2PA1ChH.js";const o={};function i(l,t){return n(),a(f,null,{default:s(()=>t[0]||(t[0]=[c(" 施工中 ")])),_:1})}typeof e=="function"&&e(o);const m=r(o,[["render",i]]);export{m as default};
