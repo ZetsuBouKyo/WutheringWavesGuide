@@ -1,0 +1,1 @@
+import{d as t,N as o,o as s,Q as n,O as e,a as r,aj as _,M as c}from"./index-C_NND7DR.js";import{a as d}from"./VList-HbbrMgSo.js";const l=t({__name:"DocHeaders",setup(p){return(a,u)=>(s(),o(n,null,{default:e(()=>[r(d,{class:"left"},{default:e(()=>[_(a.$slots,"default",{},void 0,!0)]),_:3})]),_:3}))}}),m=c(l,[["__scopeId","data-v-2cd7708d"]]);export{m as _};
